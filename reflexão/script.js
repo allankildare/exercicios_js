@@ -10,6 +10,7 @@ var item3 = "sapato"
 
 var animal = "macaco"
 
+// Functions
 function lineBreak () {
     document.write("<br><br>")
 }
@@ -32,17 +33,6 @@ function chooseAnimal () {
     document.write("Pensando melhor, prefiro ser um ", animal)
 }
 
-vidente ()
-desertIsland ()
-chooseAnimal ()
-
-// escopo global
-var animal = "Leão"
-
-function escolhaAnimal () {
-    document.write("O animal que eu escolhi é" + animal)
-
-    // Escopo local
-    animal = "Gato"
-    document.write("")
-}
+vidente()
+desertIsland()
+chooseAnimal()

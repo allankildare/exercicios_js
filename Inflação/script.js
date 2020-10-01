@@ -28,4 +28,3 @@ function estimativa () {
 inflacao()
 inflacaoMedia()
 estimativa()
-// inflacaoMedia()
