@@ -11,3 +11,6 @@ Cálculos simples 2.0 | Interativo com o usuário |  1° |
 Inflação | Calcula inflação |  1° |
 Pizzaria Resilia | Recebe nome de pizza, calcula imposto e  lucro líquido |  1° |
 Divisão Laranja | Divide as laranjas entre Joselito e vizinhos |  1° |
+Concatena Strings | Concatena strings, simples né? |  1° |
+Saudação | Faz saudação a partir de um nome  |  1° |
+Resto de 9 | Divide qualquer número por 9 e informa o resto |  1° |
