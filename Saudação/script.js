@@ -3,4 +3,4 @@ function saudacao (nome) {
     document.write(ola)
 }
 
-saudacao("Allan")
+saudacao("Allan") // imprime "Olá Allan. Tudo bem Allan?"
