@@ -16,3 +16,5 @@ Divisão Laranja | Divide as laranjas entre Joselito e vizinhos |  1° |
 Concatena Strings | Concatena strings, simples né? |  1° |
 Saudação | Faz saudação a partir de um nome  |  1° |
 Resto de 9 | Divide qualquer número por 9 e informa o resto |  1° |
+Motorista | Verifica se o usuário tem idade para dirigir  |  1° |
+Bebedeira | Verifica se o usuário tem idade para beber  |  1° |
