@@ -10,4 +10,4 @@ Cálculos simples 1.0 | Calcula dobro e metade, faz saudação |  1° |
 Cálculos simples 2.0 | Interativo com o usuário |  1° |
 Inflação | Calcula inflação |  1° |
 Pizzaria Resilia | Recebe nome de pizza, calcula imposto e  lucro líquido |  1° |
-Divisão Laranja | Recebe nome de pizza, calcula imposto e  lucro líquido |  1° |
+Divisão Laranja | Divide as laranjas entre Joselito e vizinhos |  1° |
