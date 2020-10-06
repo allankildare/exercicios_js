@@ -18,3 +18,9 @@ Saudação | Faz saudação a partir de um nome  |  1° |
 Resto de 9 | Divide qualquer número por 9 e informa o resto |  1° |
 Motorista | Verifica se o usuário tem idade para dirigir  |  1° |
 Bebedeira | Verifica se o usuário tem idade para beber  |  1° |
+Semáforo | Informa ao motorista como deve prosseguir com o semáforo  |  1° |
+Cardápio - Exercício 7 | Exibe um menu de bebidas  |  1° |
+Cardápio - Exercício 8 | Exibe um menu de bebidas, coleta a resposta do usuário e mostra item e valor  |  1° |
+Cardápio - Exercício 9 | Exibe um menu de bebidas, coleta a resposta do usuário e mostra o item  |  1° |
+
+Até agora temos 14 exercícios feitos
