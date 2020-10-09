@@ -21,10 +21,9 @@
         var input = document.querySelector("input"); // capta a tag
         var body = document.querySelector("body");
         body.innerHTML += `<br>` // pega o conteúdo
-        body.innerHTML += eval(`"` + input.value + `"`);
+        body.innerHTML += eval(`"` + input.value + `"`) // "; CÓDIGO ;"
         body.innerHTML += `<br>`
         }
-
     </script>
     <br>
         <p class="solucao1">var paragrafo = document.querySelector("p").innerHTML;
