@@ -23,5 +23,9 @@ Cardápio - Exercício 7 | Exibe um menu de bebidas  |  1° |
 Cardápio - Exercício 8 | Exibe um menu de bebidas, coleta a resposta do usuário e mostra item e valor  |  1° |
 Cardápio - Exercício 9 | Exibe um menu de bebidas, coleta a resposta do usuário e mostra o item  |  1° |
 Desafio Botão Dinâmico com Array | Cria botões de acordo com o array  |  1° |
+Array + Array | Soma todos os números dentro dos arrays declarados  |  1° |
+Múltiplos de 3 e 5 | Soma os múltiplos de 3 e 5 até o limite definido  |  1° |
+XSS - Falha de Segurança - Desafio 1 | Injetar um código no campo que mostre o número do cartão  |  1° |
+XSS - Falha de Segurança - Desafio 2 | Corrige a falha do código anterior  |  1° |
 
-Até agora temos 15 exercícios feitos
+Até agora temos 19 exercícios feitos
