@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+
+    background: linear-gradient(to left, rgb(35, 37, 38), rgb(65, 67, 69));}
+
+button {
+    margin: 0 auto;
+    width: 200px;
+    height: 50px;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    background: linear-gradient(215deg, rgb(26, 42, 108), rgb(178, 31, 31), rgb(253, 187, 45));    color: #FFF;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}

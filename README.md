@@ -23,5 +23,6 @@ Cardápio - Exercício 7 | Exibe um menu de bebidas  |  1° |
 Cardápio - Exercício 8 | Exibe um menu de bebidas, coleta a resposta do usuário e mostra item e valor  |  1° |
 Cardápio - Exercício 9 | Exibe um menu de bebidas, coleta a resposta do usuário e mostra o item  |  1° |
 Desafio Botão Dinâmico com Array | Cria botões de acordo com o array  |  1° |
+Botão e Eventos | Botão que demonstra os eventos de mouse  |  2° |
 
-Até agora temos 15 exercícios feitos
+Até agora temos 16 exercícios feitos
