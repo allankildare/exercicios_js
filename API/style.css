@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body button {
+    width: 150px;
+    height: 50px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to right, rgb(127, 127, 213), rgb(134, 168, 231), rgb(145, 234, 228));
+    box-shadow: 5px 2px 15px 3px rgba(0,0,0,0.57);
+    font-weight: bold;
+    outline: none;
+}
+
+
+.profile-photo img {
+    border: 1.6px solid black;
+    width: 160px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.name-text {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+}

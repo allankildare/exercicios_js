@@ -28,5 +28,6 @@ Múltiplos de 3 e 5 | Soma os múltiplos de 3 e 5 até o limite definido  |  1°
 XSS - Falha de Segurança - Desafio 1 | Injetar um código no campo que mostre o número do cartão (código na tag p)  |  1° |
 XSS - Falha de Segurança - Desafio 2 | Corrige a falha do código anterior  |  1° |
 Botão e Eventos | Botão que demonstra os eventos de mouse  |  2° |
+API | Botão que busca aleatoriamente foto de perfil e nomes | 2°
 
-Até agora temos 20 exercícios feitos
+Até agora temos 21 exercícios feitos
